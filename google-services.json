@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438768303544",
+    "firebase_url": "https://coronaandriod.firebaseio.com",
+    "project_id": "coronaandriod",
+    "storage_bucket": "coronaandriod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438768303544:android:d1cc569351ccba0bc1234d",
+        "android_client_info": {
+          "package_name": "com.suyash.coronavirusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438768303544-k4utkd4h6d2gm0rkun7nb674tqf76r7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOAItKEYEmZnrjIDPwDEGX8WBdW_a678"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438768303544-k4utkd4h6d2gm0rkun7nb674tqf76r7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
